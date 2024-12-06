@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DispensaInteligente", "DispensaInteligente\DispensaInteligente.csproj", "{5FD620D6-EFC6-4DA9-9156-E257ECE2B41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD620D6-EFC6-4DA9-9156-E257ECE2B41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD620D6-EFC6-4DA9-9156-E257ECE2B41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD620D6-EFC6-4DA9-9156-E257ECE2B41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD620D6-EFC6-4DA9-9156-E257ECE2B41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB90D2A4-1163-4CC2-B9E4-7175C458516D}
+	EndGlobalSection
+EndGlobal
